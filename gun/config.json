@@ -1,0 +1,13 @@
+{
+	"game_dir": "D:\\Steam\\steamapps\\common\\Call of Duty 4",
+	"create_sound_files": true,
+	"skip_conversion_confirmation": true,
+	"skip_bad_notetracks": true,
+	"materials_to_gdt": true,
+	"empty_colour_map": true,
+	"generate_notetrack_map": true,
+	"create_weapon_file": false,
+	"convert_anims": true,
+
+    "additional_models": null
+}
