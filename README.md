@@ -24,6 +24,7 @@ a tool to automate gdt's when porting
 - vm_game_gun_holo_ads_up
 - vm_game_gun_idle
 - vm_game_gun_raise
+- vm_game_gun_raise_first
 - vm_game_gun_raise_quick
 - vm_game_gun_rechamber
 - vm_game_gun_rechamber_ads
@@ -60,6 +61,7 @@ a tool to automate gdt's when porting
 - vm_iw5_ksg_holo_ads_up
 - vm_iw5_ksg_idle
 - vm_iw5_ksg_raise
+- vm_iw5_ksg_raise_first
 - vm_iw5_ksg_raise_quick
 - vm_iw5_ksg_rechamber
 - vm_iw5_ksg_rechamber_ads
